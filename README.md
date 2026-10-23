@@ -3,7 +3,7 @@
 # Opoka JM Silvio
 ### Graduate Researcher & Systems Engineer
 
-[![Degree](https://img.shields.io/badge/MSc-Software_Science_%26_Technology-0052CC?style=for-the-badge&logo=academia&logoColor=white)](https://www.unifi.it/)
+[![Degree](https://www.unifi.it/en/study-us/degree-programs/second-cycle-degree/software-science-and-technology)
 [![Institution](https://img.shields.io/badge/Institution-University_of_Florence-8A1538?style=for-the-badge)](https://www.unifi.it/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/opoka-john-modi-silvio-0aa376161)
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opoka2010@gmail.com)
