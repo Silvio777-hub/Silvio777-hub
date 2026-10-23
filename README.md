@@ -1,6 +1,6 @@
 <div align="center">
 
-# Opoka John Modi Silvio
+# Opoka JM Silvio
 ### Graduate Researcher & Systems Engineer
 
 [![Degree](https://img.shields.io/badge/MSc-Software_Science_%26_Technology-0052CC?style=for-the-badge&logo=academia&logoColor=white)](https://www.unifi.it/)
@@ -16,7 +16,7 @@
 
 </div>
 
-## 🔬 Research Interests & Thesis Work
+## Research Interests & Thesis Work
 
 My academic and engineering work operates at the intersection of **Formal Software Engineering** and **Generative Machine Learning**:
 
@@ -26,7 +26,7 @@ My academic and engineering work operates at the intersection of **Formal Softwa
 
 ---
 
-## 🚀 Key Research & Production Repositories
+## Key Research & Production Repositories
 
 <table>
   <thead>
@@ -90,7 +90,7 @@ My academic and engineering work operates at the intersection of **Formal Softwa
 
 ---
 
-## 🛠️ Technical Competencies
+## Technical Competencies
 
 <div align="center">
 
@@ -106,7 +106,7 @@ My academic and engineering work operates at the intersection of **Formal Softwa
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Silvio777-hub&show_icons=true&theme=transparent&hide_border=true&title_color=0052CC&text_color=7D8590&icon_color=0052CC" height="150" alt="GitHub Stats" />
